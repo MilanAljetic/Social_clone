@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="696571d5-0a86-4302-99de-f56bb86f8f60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplesocial/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/simplesocial/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplesocial/static/css/master.css" beforeDir="false" afterPath="$PROJECT_DIR$/simplesocial/static/css/master.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1acR8JTnHSYsJZoMreOJt9ZJPa1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="696571d5-0a86-4302-99de-f56bb86f8f60" name="Default Changelist" comment="" />
+      <created>1587032734761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587032734761</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Social_clone2">
+      <created>1587246829454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587246829455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Social_clone2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Social_clone2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="75" key="#Inspections" timestamp="1587144842379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="75" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1587144842379" />
+    <state x="909" y="203" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587048624532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="909" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1587048624532" />
+    <state x="833" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587755101505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="833" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1587755101505" />
+    <state x="806" y="0" key="CommitChangelistDialog2" timestamp="1587246820993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="806" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587246820993" />
+    <state x="698" y="147" key="IDE.errors.dialog" timestamp="1587755089678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="698" y="147" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587755089678" />
+    <state x="464" y="0" key="SettingsEditor" timestamp="1587754770404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587754770404" />
+    <state x="828" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1587755067122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="828" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587755067122" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587061766958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587061766958" />
+  </component>
+</project>
